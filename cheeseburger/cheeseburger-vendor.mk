@@ -270,7 +270,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/hw/activity_recognition.msm8998.so:system/vendor/lib/hw/activity_recognition.msm8998.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/hw/gatekeeper.msm8998.so:system/vendor/lib/hw/gatekeeper.msm8998.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/hw/keystore.msm8998.so:system/vendor/lib/hw/keystore.msm8998.so \
-    vendor/oneplus/cheeseburger/proprietary/vendor/lib/hw/sound_trigger.primary.msm8998.so:system/vendor/lib/hw/sound_trigger.primary.msm8998.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/hw/vulkan.msm8998.so:system/vendor/lib/hw/vulkan.msm8998.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libacdb-fts.so:system/vendor/lib/libacdb-fts.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
@@ -567,7 +566,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libsensor_thresh.so:system/vendor/lib/libsensor_thresh.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libsensor_user_cal.so:system/vendor/lib/libsensor_user_cal.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
-    vendor/oneplus/cheeseburger/proprietary/vendor/lib/libsmwrapper.so:system/vendor/lib/libsmwrapper.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libSonyIMX350PdafLibrary.so:system/vendor/lib/libSonyIMX350PdafLibrary.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libSonyIMX371RmscLibrary.so:system/vendor/lib/libSonyIMX371RmscLibrary.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libspl.so:system/vendor/lib/libspl.so \
