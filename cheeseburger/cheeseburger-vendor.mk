@@ -17,7 +17,6 @@
 PRODUCT_PACKAGES += \
     libloc_api_v02 \
     libgpustats \
-    libril \
     libsdm-disp-apis \
     libthermalclient \
     libtime_genoff \
@@ -248,7 +247,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/cheeseburger/proprietary/lib/libopcameralib.so:system/lib/libopcameralib.so \
     vendor/oneplus/cheeseburger/proprietary/lib/libopposfr.so:system/lib/libopposfr.so \
     vendor/oneplus/cheeseburger/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
-    vendor/oneplus/cheeseburger/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/oneplus/cheeseburger/proprietary/lib/libSensorManagerHAL.so:system/lib/libSensorManagerHAL.so \
     vendor/oneplus/cheeseburger/proprietary/lib/libVDBlurlessAPI.so:system/lib/libVDBlurlessAPI.so \
     vendor/oneplus/cheeseburger/proprietary/lib/libVDHDRAPI.so:system/lib/libVDHDRAPI.so \
@@ -266,7 +264,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/cheeseburger/proprietary/lib64/libopcamera.so:system/lib64/libopcamera.so \
     vendor/oneplus/cheeseburger/proprietary/lib64/libopcameralib.so:system/lib64/libopcameralib.so \
     vendor/oneplus/cheeseburger/proprietary/lib64/libparam.so:system/lib64/libparam.so \
-    vendor/oneplus/cheeseburger/proprietary/lib64/libril.so:system/lib64/libril.so \
     vendor/oneplus/cheeseburger/proprietary/lib64/libvpplibrary.so:system/lib64/libvpplibrary.so \
     vendor/oneplus/cheeseburger/proprietary/lib64/sensors.hal.tof.so:system/lib64/sensors.hal.tof.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/bin/mm-pp-dpps:system/vendor/bin/mm-pp-dpps \
