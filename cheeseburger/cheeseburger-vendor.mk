@@ -214,11 +214,8 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/cheeseburger/proprietary/lib/libmorpho_image_stab4.so:system/lib/libmorpho_image_stab4.so \
     vendor/oneplus/cheeseburger/proprietary/lib/libmorpho_video_refiner.so:system/lib/libmorpho_video_refiner.so \
     vendor/oneplus/cheeseburger/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
-    vendor/oneplus/cheeseburger/proprietary/lib/libopbaselib.so:system/lib/libopbaselib.so \
-    vendor/oneplus/cheeseburger/proprietary/lib/libopcamera.so:system/lib/libopcamera.so \
     vendor/oneplus/cheeseburger/proprietary/lib/libopcamera_crypt.so:system/lib/libopcamera_crypt.so \
     vendor/oneplus/cheeseburger/proprietary/lib/libopcamera_native_modules.so:system/lib/libopcamera_native_modules.so \
-    vendor/oneplus/cheeseburger/proprietary/lib/libopcameralib.so:system/lib/libopcameralib.so \
     vendor/oneplus/cheeseburger/proprietary/lib/libopposfr.so:system/lib/libopposfr.so \
     vendor/oneplus/cheeseburger/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/oneplus/cheeseburger/proprietary/lib/libSensorManagerHAL.so:system/lib/libSensorManagerHAL.so \
@@ -234,9 +231,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/cheeseburger/proprietary/lib64/libbthost_if.so:system/lib64/libbthost_if.so \
     vendor/oneplus/cheeseburger/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
     vendor/oneplus/cheeseburger/proprietary/lib64/libOmxVpp.so:system/lib64/libOmxVpp.so \
-    vendor/oneplus/cheeseburger/proprietary/lib64/libopbaselib.so:system/lib64/libopbaselib.so \
-    vendor/oneplus/cheeseburger/proprietary/lib64/libopcamera.so:system/lib64/libopcamera.so \
-    vendor/oneplus/cheeseburger/proprietary/lib64/libopcameralib.so:system/lib64/libopcameralib.so \
     vendor/oneplus/cheeseburger/proprietary/lib64/libparam.so:system/lib64/libparam.so \
     vendor/oneplus/cheeseburger/proprietary/lib64/libvpplibrary.so:system/lib64/libvpplibrary.so \
     vendor/oneplus/cheeseburger/proprietary/lib64/sensors.hal.tof.so:system/lib64/sensors.hal.tof.so \
